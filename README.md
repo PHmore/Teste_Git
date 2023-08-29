@@ -8,6 +8,8 @@ Após fazer um merge ou criar uma commit é necessário fazer um commit vazio na
 
 Aparentemente a manipulação de branches como merge ou criação é necessário uma sempre fazer um empty commit antes para que não se perca o gráfico 
 
+Ainda há inconsistencias com o gráfico quando o merge é feito ou seja acho que precisa ser atualizado as branches que receberão as merges
+
 Comando de commit vazio:
 git commit --allow-empty -m "Mensagem commit vazio"
 
