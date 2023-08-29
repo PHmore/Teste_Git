@@ -10,3 +10,5 @@ Aparentemente a manipulação de branches como merge ou criação é necessário
 
 Comando de commit vazio:
 git commit --allow-empty -m "Mensagem commit vazio"
+
+Ensinamento básico
